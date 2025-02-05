@@ -1,0 +1,1 @@
+# selcom-apigw-client-wordpress
